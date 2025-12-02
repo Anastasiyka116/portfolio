@@ -16,3 +16,8 @@ Hi! I'm **Anastasiia Hrynevych**, a motivated aspiring IT specialist with a stro
 - **Programming & Analysis:** Python, SQL  
 - **Web Development:** Flask, HTML/CSS, Bootstrap  
 - **Data Analysis & Visualization:** Jupyter Notebook, Google Colab, Tableau, Matplotlib, Seaborn, Pandas
+## Projects :
+1. [Student Academic Analytics System](https://github.com/Anastasiyka116/Student-Academic-Analytics-System)  
+   Web-based system for analyzing and visualizing student academic performance. Upload JSON files, perform statistical analysis, and generate charts.
+2. [Book Explorer](https://github.com/Anastasiyka116/BookShelf)  
+   Web application to search books via Google Books API. Users can create personal accounts, save favorite books, and manage a personal library.
