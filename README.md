@@ -19,5 +19,7 @@ Hi! I'm **Anastasiia Hrynevych**, a motivated aspiring IT specialist with a stro
 ## Projects :
 1. [Student Academic Analytics System](https://github.com/Anastasiyka116/Student-Academic-Analytics-System)  
    Web-based system for analyzing and visualizing student academic performance. Upload JSON files, perform statistical analysis, and generate charts.
-2. [Book Explorer](https://github.com/Anastasiyka116/BookShelf)  
+2. [Book Shelf](https://github.com/Anastasiyka116/BookShelf)  
    Web application to search books via Google Books API. Users can create personal accounts, save favorite books, and manage a personal library.
+3. [Customer Support Performance Analysis](https://github.com/Anastasiyka116/Customer-Support-Performance-Analysis)  
+   This project focuses on analyzing and improving the performance of customer support teams in a marketplace environment with two services.
