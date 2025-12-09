@@ -23,3 +23,5 @@ Hi! I'm **Anastasiia Hrynevych**, a motivated aspiring IT specialist with a stro
    Web application to search books via Google Books API. Users can create personal accounts, save favorite books, and manage a personal library.
 3. [Customer Support Performance Analysis](https://github.com/Anastasiyka116/Customer-Support-Performance-Analysis)  
    This project focuses on analyzing and improving the performance of customer support teams in a marketplace environment with two services.
+4. [Prozorro Solar Equipment Analysis](https://github.com/Anastasiyka116/Prozorro_Solar_Equipment_Analysis)
+   This project explores the Ukrainian solar panel procurement market and evaluates key hypotheses related to seasonality, pricing, competition, and supplier behavior.
