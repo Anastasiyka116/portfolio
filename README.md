@@ -25,3 +25,5 @@ Hi! I'm **Anastasiia Hrynevych**, a motivated aspiring IT specialist with a stro
    This project focuses on analyzing and improving the performance of customer support teams in a marketplace environment with two services.
 4. [Prozorro Solar Equipment Analysis](https://github.com/Anastasiyka116/Prozorro_Solar_Equipment_Analysis)
    This project explores the Ukrainian solar panel procurement market and evaluates key hypotheses related to seasonality, pricing, competition, and supplier behavior.
+5. [E-Commerce Growth Strategy: From Revenue to Retention](https://github.com/Anastasiyka116/E-Commerce-Growth-Strategy-From-Revenue-to-Retention)
+   This project analyzes a dataset from a UK-based online retail store (2009-2010) to identify revenue drivers and customer retention patterns. The goal was to move beyond    simple reporting and provide actionable strategic insights using **Pareto Analysis**, **Cohort Analysis**, and **RFM Segmentation**.
